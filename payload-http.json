@@ -1,0 +1,11 @@
+{
+  "jsonrpc": "2.0",
+  "method": "update_product",
+  "params": {
+    "productId": 4644,
+    "productData": {
+      "description": "This is the updated description from payload-http.json."
+    }
+  },
+  "id": 3
+} 
